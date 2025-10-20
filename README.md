@@ -20,11 +20,17 @@ Space:	Toggle autopilot (A* re-plans as it discovers blocks)
 
 Arrow keys / WASD:	Manual movement
 
+'[': Load previous maze in env folder
+  
+']': Load next maze in env folder
+
+T: Switches Tie-breaking strategy between smaller_g and larger_g
+
 G:	Generate a fresh random world (same size --n)
 
 R:	Reset to start
 
-(+) or (-): Increase or decrease vision radius
+'+' or '-': Increase or decrease vision radius
   
 H:	Toggle grid overlay
 
